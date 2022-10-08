@@ -11,7 +11,6 @@ poblacion_total = 2403000000
 promedio_temperatura = 31.3
 estados_cercanos = ['chiapas','campeche','veracruz']
 productos_tabasco=['Cacao', 'Coco', 'Caña']
-
 print(nombre_estado, " es un estado que ", )
 print("con ",estados_cercanos[0], "colinda al sur", ",")
 print("tiene una superficie de ", superficie,",")
