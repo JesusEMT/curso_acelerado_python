@@ -1,0 +1,18 @@
+''''
+*********** Curso de programación acelerada en Python ************
+Date: 07-10-2022
+File: sesion3/ejercicio25.py
+Autor: Programador Jesus Emmanuel Martinez Torres
+Action: Diccionario de traducción español-inglés.
+'''
+diccionario = {}
+palabras = input("***Introduce la lista de palabras y traducciones***"+"\n"+ "Formato= palabra:traducción separadas por comas: "+"\n"+"Ejemplo=Hola: Hi,"+"\n")
+for i in palabras.split(','):
+  clave, valor = i.split(':')
+  diccionario[clave] = valor
+frase = input('Introduce una frase en español: ')
+for i in frase.split():
+  if i in diccionario:
+    print(diccionario[i], end=' ')
+  else:
+    print(i, end=' ')
