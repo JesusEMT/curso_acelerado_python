@@ -46,6 +46,7 @@ coste = float(input("Introduce lo que cobras por hora: "))
 paga = (horas+horas_extra) * coste
 print("Tu paga es", paga)
 
+
 '''
 *********** Curso de programación acelerada en Python ************
 Date: 07-10-2022
@@ -57,3 +58,40 @@ peso = input("¿Cuál es tu peso en kg? ")
 estatura = input("¿Cuál es tu estatura en metros?")
 imc = round(float(peso)/float(estatura)**2,2)
 print("Tu índice de masa corporal es " + str(imc))
+
+
+'''
+*********** Curso de programación acelerada en Python ************
+Date 07-10-2022
+File: sesion1/ejercicio5.py
+Autor: Programador Jesus Emmanuel Martinez Torres
+Action: conversion de temperatura
+'''
+celsius=input("Ingrese la temperatura en grados Celsius:")
+celsius=float(celsius)
+fahrenheit=((celsius*1.8)+(32))
+print("La temperatura en grados Fahrenheit es:",fahrenheit)
+
+
+'''
+*********** Curso de programación acelerada en Python ************
+Date: 07-10-2022
+File: sesion1/ejercicio6.py
+Autor: Programador Jesus Emmanuel Martinez Torres
+Action: imprime capital obtenido de una inversión
+'''
+cantidad = float( input("¿Cantidad a invertir? "))
+interes = float(input("¿Interés porcentual anual? "))
+años = int(input("¿Años?"))
+print("Capital final: " + str(round(cantidad * (interes / 100 + 1) ** años, 2)))
+
+'''
+*********** Curso de programación acelerada en Python ************
+Date: 07-10-2022
+File: sesion1/ejercicio6.py
+Autor: Programador Jesus Emmanuel Martinez Torres
+Action: Suma de los primeros números enteros
+'''
+n = int(input("Introduce un número entero: "))
+suma = n * (n + 1) / 2
+print("La suma de los primeros números enteros desde 1 hasta " + str(n) + " es " + str(suma))
