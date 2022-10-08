@@ -16,5 +16,7 @@ print(nombre_estado, " es un estado que ", )
 print("con ",estados_cercanos[0], "colinda al sur", ",")
 print("tiene una superficie de ", superficie,",")
 print("tiene una temperatura de ", promedio_temperatura,'y')
-print("es productor de ", productos_tabasco[0])
+print("es productor de ",end=" ")
+for i in range(len (productos_tabasco)): print(" "+productos_tabasco[i],end=" ")
+
 
