@@ -1,7 +1,7 @@
 '''
 *********** Curso de programación acelerada en Python ************
 Date: 07-10-2022
-File: sesion/ejercicio4.py
+File: sesion1/ejercicio4.py
 Autor: Programador Jesus Emmanuel Martinez Torres
 Action: indice de masa corporal peso en kg/ estatura mtrs cuadrados
 '''

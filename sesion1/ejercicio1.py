@@ -1,7 +1,7 @@
 '''
 *********** Curso de programación acelerada en Python ************
 Date 07-10-2022
-File: sesion/ejercicio1.py
+File: sesion1/ejercicio1.py
 Autor: Programador Jesus Emmanuel Martinez Torres
 Action: Asignación de variables
 '''
@@ -17,3 +17,4 @@ print("con ",estados_cercanos[0], "colinda al sur", ",")
 print("tiene una superficie de ", superficie,",")
 print("tiene una temperatura de ", promedio_temperatura,'y')
 print("es productor de ", productos_tabasco[0])
+

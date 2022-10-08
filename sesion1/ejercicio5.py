@@ -1,7 +1,7 @@
 '''
 *********** Curso de programación acelerada en Python ************
 Date 07-10-2022
-File: sesion/ejercicio5.py
+File: sesion1/ejercicio5.py
 Autor: Programador Jesus Emmanuel Martinez Torres
 Action: conversion de temperatura
 '''

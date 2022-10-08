@@ -1,7 +1,7 @@
 '''
 *********** Curso de programación acelerada en Python ************
 Date 07-10-2022
-File: sesion/ejercicio2.py
+File: sesion1/ejercicio2.py
 Autor: Programador Jesus Emmanuel Martinez Torres
 Action: superficie de un cuadrado
 '''

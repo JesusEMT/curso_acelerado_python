@@ -1,7 +1,7 @@
 '''
 *********** Curso de programación acelerada en Python ************
 Date: 07-10-2022
-File: sesion/ejercicio6.py
+File: sesion1/ejercicio6.py
 Autor: Programador Jesus Emmanuel Martinez Torres
 Action: imprime capital obtenido de una inversión
 '''

@@ -1,7 +1,7 @@
 '''
 *********** Curso de programación acelerada en Python ************
 Date: 07-10-2022
-File: sesion/ejercicio11.py
+File: sesion2/ejercicio11.py
 Autor: Programador Jesus Emmanuel Martinez Torres
 Action: estructura condicional anidada
 '''
